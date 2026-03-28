@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use these resources, please cite the source."
+authors:
+  - name: "Ilaria Digital School"
+title: "CyberSecurity & DevSecOps Expert: Develop, PenTest, and Deploy Secure Applications"
+url: "https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/"
+year: 2026
+license: LicenseRef-proprietary
