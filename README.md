@@ -10,3 +10,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [02. Guided workshop: identifying the CIA pillar under threat](02-guided-workshop-identifying-the-cia-pillar-under-threat/)
 - [03. Variation workshop: creating your own threat examples](03-variation-workshop-creating-your-own-threat-examples/)
 - [04. Guided workshop: recognize the threat on a screenshot](04-guided-workshop-recognize-the-threat-on-a-screenshot/)
+- [05. Guided workshop: visualizing a simplified CI/CD pipeline](05-guided-workshop-visualizing-a-simplified-ci-cd-pipeline/)
