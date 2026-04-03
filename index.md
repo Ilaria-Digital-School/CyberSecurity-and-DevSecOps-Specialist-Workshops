@@ -17,4 +17,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 03. [Variation workshop: creating your own threat examples](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/63e946e2-25de-4819-b20d-94fd23358fd1/variation-workshop-creating-your-own-threat-examples)
 04. [Guided workshop: recognize the threat on a screenshot](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/30e94646-ead2-4248-abc9-b53624739b32/guided-workshop-recognize-the-threat-on-a-screenshot)
 05. [Guided workshop: visualizing a simplified CI/CD pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/b9dd1c8c-9993-48d2-ac5e-db22a8944c85/guided-workshop-visualizing-a-simplified-ci-cd-pipeline)
+06. [Guided workshop: placing security checks in an imaginary pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/adf4bed4-ebad-4a61-88cd-af969009f868/guided-workshop-placing-security-checks-in-an-imaginary-pipeline)
 

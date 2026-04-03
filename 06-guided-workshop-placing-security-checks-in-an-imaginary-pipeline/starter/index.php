@@ -1,0 +1,2 @@
+<?php
+// Guided workshop: placing security checks in an imaginary pipeline
