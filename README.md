@@ -12,3 +12,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [04. Guided workshop: recognize the threat on a screenshot](04-guided-workshop-recognize-the-threat-on-a-screenshot/)
 - [05. Guided workshop: visualizing a simplified CI/CD pipeline](05-guided-workshop-visualizing-a-simplified-ci-cd-pipeline/)
 - [06. Guided workshop: placing security checks in an imaginary pipeline](06-guided-workshop-placing-security-checks-in-an-imaginary-pipeline/)
+- [07. Variation workshop: adapting a secure pipeline to an e-commerce project](07-variation-workshop-adapting-a-secure-pipeline-to-an-e-commerce-project/)
