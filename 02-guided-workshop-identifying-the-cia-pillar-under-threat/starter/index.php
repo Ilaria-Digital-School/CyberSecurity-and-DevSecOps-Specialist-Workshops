@@ -1,2 +1,0 @@
-<?php
-// Guided workshop: identifying the CIA pillar under threat

@@ -6,10 +6,10 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 
 ## Workshops
 
-- [01. Guided workshop: associate each term with a concrete case](01-guided-workshop-associate-each-term-with-a-concrete-case/)
-- [02. Guided workshop: identifying the CIA pillar under threat](02-guided-workshop-identifying-the-cia-pillar-under-threat/)
-- [03. Variation workshop: creating your own threat examples](03-variation-workshop-creating-your-own-threat-examples/)
-- [04. Guided workshop: recognize the threat on a screenshot](04-guided-workshop-recognize-the-threat-on-a-screenshot/)
-- [05. Guided workshop: visualizing a simplified CI/CD pipeline](05-guided-workshop-visualizing-a-simplified-ci-cd-pipeline/)
-- [06. Guided workshop: placing security checks in an imaginary pipeline](06-guided-workshop-placing-security-checks-in-an-imaginary-pipeline/)
-- [07. Variation workshop: adapting a secure pipeline to an e-commerce project](07-variation-workshop-adapting-a-secure-pipeline-to-an-e-commerce-project/)
+- [01. Workshop: associate each term with a concrete case](01-workshop-associate-each-term-with-a-concrete-case/)
+- [02. Workshop: identifying the CIA pillar under threat](02-workshop-identifying-the-cia-pillar-under-threat/)
+- [03. Workshop: Creating your own threat examples](03-workshop-creating-your-own-threat-examples/)
+- [04. Workshop: recognize the threat on a screenshot](04-workshop-recognize-the-threat-on-a-screenshot/)
+- [05. Workshop: visualizing a simplified CI/CD pipeline](05-workshop-visualizing-a-simplified-ci-cd-pipeline/)
+- [06. Workshop: placing security checks in an imaginary pipeline](06-workshop-placing-security-checks-in-an-imaginary-pipeline/)
+- [07. Workshop: Adapting a secure pipeline to an e-commerce project](07-workshop-adapting-a-secure-pipeline-to-an-e-commerce-project/)
