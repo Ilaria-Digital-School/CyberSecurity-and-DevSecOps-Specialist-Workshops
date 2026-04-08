@@ -13,3 +13,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [05. Workshop: visualizing a simplified CI/CD pipeline](05-workshop-visualizing-a-simplified-ci-cd-pipeline/)
 - [06. Workshop: placing security checks in an imaginary pipeline](06-workshop-placing-security-checks-in-an-imaginary-pipeline/)
 - [07. Workshop: Adapting a secure pipeline to an e-commerce project](07-workshop-adapting-a-secure-pipeline-to-an-e-commerce-project/)
+- [08. mini-project: writing a security-oriented user story](08-mini-project-writing-a-security-oriented-user-story/)

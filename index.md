@@ -19,4 +19,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 05. [Workshop: visualizing a simplified CI/CD pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/b9dd1c8c-9993-48d2-ac5e-db22a8944c85/workshop-visualizing-a-simplified-ci-cd-pipeline)
 06. [Workshop: placing security checks in an imaginary pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/adf4bed4-ebad-4a61-88cd-af969009f868/workshop-placing-security-checks-in-an-imaginary-pipeline)
 07. [Workshop: Adapting a secure pipeline to an e-commerce project](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/5e7155e7-4424-4cde-a243-dcd32e5abdd0/workshop-adapting-a-secure-pipeline-to-an-e-commerce-project)
+08. [mini-project: writing a security-oriented user story](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/898f3f38-4360-4a8f-b2a6-b9a20bd06bec/mini-project-writing-a-security-oriented-user-story)
 
