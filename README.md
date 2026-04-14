@@ -15,3 +15,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [07. Workshop: Adapting a secure pipeline to an e-commerce project](07-workshop-adapting-a-secure-pipeline-to-an-e-commerce-project/)
 - [08. mini-project: writing a security-oriented user story](08-mini-project-writing-a-security-oriented-user-story/)
 - [09. Workshop: installing and verifying the lab virtual machine](09-workshop-installing-and-verifying-the-lab-virtual-machine/)
+- [10. Workshop: first Git manipulations (clone, commit)](10-workshop-first-git-manipulations-clone-commit/)
