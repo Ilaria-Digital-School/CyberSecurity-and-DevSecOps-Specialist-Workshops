@@ -22,4 +22,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 08. [mini-project: writing a security-oriented user story](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/898f3f38-4360-4a8f-b2a6-b9a20bd06bec/mini-project-writing-a-security-oriented-user-story)
 09. [Workshop: installing and verifying the lab virtual machine](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/206e3fd8-15af-4198-857b-aeee9c52f362/workshop-installing-and-verifying-the-lab-virtual-machine)
 10. [Workshop: first Git manipulations (clone, commit)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/228f4529-0e0f-498f-b314-f47f65e3f45e/workshop-first-git-manipulations-clone-commit)
+11. [Workshop: simulating a committed secret and correcting it](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/794de7a1-bc45-4e64-8c68-3ff4685eddb7/workshop-simulating-a-committed-secret-and-correcting-it)
 
