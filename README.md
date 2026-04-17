@@ -17,3 +17,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [09. Workshop: installing and verifying the lab virtual machine](09-workshop-installing-and-verifying-the-lab-virtual-machine/)
 - [10. Workshop: first Git manipulations (clone, commit)](10-workshop-first-git-manipulations-clone-commit/)
 - [11. Workshop: simulating a committed secret and correcting it](11-workshop-simulating-a-committed-secret-and-correcting-it/)
+- [12. Workshop: setting up a basic pre-commit rule](12-workshop-setting-up-a-basic-pre-commit-rule/)
