@@ -1,0 +1,2 @@
+<?php
+// Workshop: placing security tests into an existing workflow

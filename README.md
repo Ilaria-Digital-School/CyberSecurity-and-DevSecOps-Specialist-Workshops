@@ -19,3 +19,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [11. Workshop: simulating a committed secret and correcting it](11-workshop-simulating-a-committed-secret-and-correcting-it/)
 - [12. Workshop: setting up a basic pre-commit rule](12-workshop-setting-up-a-basic-pre-commit-rule/)
 - [13. Workshop: mapping the OWASP Top 10 on the pipeline](13-workshop-mapping-the-owasp-top-10-on-the-pipeline/)
+- [14. Workshop: placing security tests into an existing workflow](14-workshop-placing-security-tests-into-an-existing-workflow/)

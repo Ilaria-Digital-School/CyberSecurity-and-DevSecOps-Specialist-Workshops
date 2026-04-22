@@ -25,4 +25,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 11. [Workshop: simulating a committed secret and correcting it](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/794de7a1-bc45-4e64-8c68-3ff4685eddb7/workshop-simulating-a-committed-secret-and-correcting-it)
 12. [Workshop: setting up a basic pre-commit rule](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/b76723de-7e61-480e-b921-2ed2b0ed6c19/workshop-setting-up-a-basic-pre-commit-rule)
 13. [Workshop: mapping the OWASP Top 10 on the pipeline](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/229e9463-a466-4811-9956-e466f5b8477b/workshop-mapping-the-owasp-top-10-on-the-pipeline)
+14. [Workshop: placing security tests into an existing workflow](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/9adaf497-120b-4302-bb66-548483ef7fcc/636047de-9139-4239-bbdd-4ab168670a0a/workshop-placing-security-tests-into-an-existing-workflow)
 
