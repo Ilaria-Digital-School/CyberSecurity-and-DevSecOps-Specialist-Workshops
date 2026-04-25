@@ -21,3 +21,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [13. Workshop: mapping the OWASP Top 10 on the pipeline](13-workshop-mapping-the-owasp-top-10-on-the-pipeline/)
 - [14. Workshop: placing security tests into an existing workflow](14-workshop-placing-security-tests-into-an-existing-workflow/)
 - [15. Mini-project: create a YAML mini-pipeline with commented security steps](15-mini-project-create-a-yaml-mini-pipeline-with-commented-security-steps/)
+- [16. Workshop: extracting key information from the report](16-workshop-extracting-key-information-from-the-report/)
