@@ -23,3 +23,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [15. Mini-project: create a YAML mini-pipeline with commented security steps](15-mini-project-create-a-yaml-mini-pipeline-with-commented-security-steps/)
 - [16. Workshop: extracting key information from the report](16-workshop-extracting-key-information-from-the-report/)
 - [17. Workshop: Writing a micro-report on an imaginary bug](17-workshop-writing-a-micro-report-on-an-imaginary-bug/)
+- [18. Map your home network](18-map-your-home-network/)
