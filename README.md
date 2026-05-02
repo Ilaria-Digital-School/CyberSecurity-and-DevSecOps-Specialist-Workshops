@@ -24,3 +24,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [16. Workshop: extracting key information from the report](16-workshop-extracting-key-information-from-the-report/)
 - [17. Workshop: Writing a micro-report on an imaginary bug](17-workshop-writing-a-micro-report-on-an-imaginary-bug/)
 - [18. Map your home network](18-map-your-home-network/)
+- [19. Observe an ICMP packet with ping](19-observe-an-icmp-packet-with-ping/)
+- [20. Associate IP addresses with equipment](20-associate-ip-addresses-with-equipment/)
