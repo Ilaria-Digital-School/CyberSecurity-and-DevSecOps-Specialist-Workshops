@@ -33,4 +33,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 19. [Observe an ICMP packet with ping](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/30201cb9-2283-4e2d-85dd-d34f39d7133a/observe-an-icmp-packet-with-ping)
 20. [Associate IP addresses with equipment](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/4882e9f4-23c7-4de8-8580-3df2084accf2/associate-ip-addresses-with-equipment)
 21. [Visualize a network flow with an online simulator](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/fc7d5004-4457-49b4-8bb0-d000d2419545/visualize-a-network-flow-with-an-online-simulator)
+22. [Stack the diapers (virtual Lego activity)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/47a2d8de-306d-4e77-bb3c-cf1d5d55b0d2/stack-the-diapers-virtual-lego-activity)
 

@@ -27,3 +27,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [19. Observe an ICMP packet with ping](19-observe-an-icmp-packet-with-ping/)
 - [20. Associate IP addresses with equipment](20-associate-ip-addresses-with-equipment/)
 - [21. Visualize a network flow with an online simulator](21-visualize-a-network-flow-with-an-online-simulator/)
+- [22. Stack the diapers (virtual Lego activity)](22-stack-the-diapers-virtual-lego-activity/)
