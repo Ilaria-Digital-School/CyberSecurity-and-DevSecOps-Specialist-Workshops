@@ -28,3 +28,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [20. Associate IP addresses with equipment](20-associate-ip-addresses-with-equipment/)
 - [21. Visualize a network flow with an online simulator](21-visualize-a-network-flow-with-an-online-simulator/)
 - [22. Stack the diapers (virtual Lego activity)](22-stack-the-diapers-virtual-lego-activity/)
+- [23. Choosing the right cable (interactive scenario)](23-choosing-the-right-cable-interactive-scenario/)
