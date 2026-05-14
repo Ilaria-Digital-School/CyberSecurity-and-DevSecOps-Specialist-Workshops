@@ -31,3 +31,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [23. Choosing the right cable (interactive scenario)](23-choosing-the-right-cable-interactive-scenario/)
 - [24. Read a captured Ethernet frame](24-read-a-captured-ethernet-frame/)
 - [25. Identify errors in a frame](25-identify-errors-in-a-frame/)
+- [26. Use traceroute to see jumps](26-use-traceroute-to-see-jumps/)
+- [27. Analyze a traceroute output](27-analyze-a-traceroute-output/)

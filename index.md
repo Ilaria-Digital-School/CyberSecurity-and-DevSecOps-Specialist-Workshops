@@ -37,4 +37,6 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 23. [Choosing the right cable (interactive scenario)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/4d175dc7-5ac2-4e96-badc-632c58fa3d9c/choosing-the-right-cable-interactive-scenario)
 24. [Read a captured Ethernet frame](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/c84491c5-190d-4210-ab9e-61be40fa9c0b/read-a-captured-ethernet-frame)
 25. [Identify errors in a frame](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/4e9b2bb1-9290-4d55-a582-eb209a84b0d7/identify-errors-in-a-frame)
+26. [Use traceroute to see jumps](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/bb245b55-b39a-4548-9879-14af6f9b4d50/use-traceroute-to-see-jumps)
+27. [Analyze a traceroute output](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/aede4401-f6bc-4f44-89dd-b555f1961007/analyze-a-traceroute-output)
 
