@@ -34,3 +34,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [26. Use traceroute to see jumps](26-use-traceroute-to-see-jumps/)
 - [27. Analyze a traceroute output](27-analyze-a-traceroute-output/)
 - [28. Ramp-up mini-project: documenting the path of a package to a website](28-ramp-up-mini-project-documenting-the-path-of-a-package-to-a-website/)
+- [29. Establishing a TCP handshake via netcat](29-establishing-a-tcp-handshake-via-netcat/)

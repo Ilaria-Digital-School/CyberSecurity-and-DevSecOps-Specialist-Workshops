@@ -40,4 +40,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 26. [Use traceroute to see jumps](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/bb245b55-b39a-4548-9879-14af6f9b4d50/use-traceroute-to-see-jumps)
 27. [Analyze a traceroute output](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/aede4401-f6bc-4f44-89dd-b555f1961007/analyze-a-traceroute-output)
 28. [Ramp-up mini-project: documenting the path of a package to a website](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/e9b82e18-9920-4784-a20f-494bd03ac0e3/ramp-up-mini-project-documenting-the-path-of-a-package-to-a-website)
+29. [Establishing a TCP handshake via netcat](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/b72b4159-2af6-4602-af63-7ae5ed388c7e/establishing-a-tcp-handshake-via-netcat)
 
