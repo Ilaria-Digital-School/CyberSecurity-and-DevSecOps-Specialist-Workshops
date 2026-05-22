@@ -43,4 +43,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 29. [Establishing a TCP handshake via netcat](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/b72b4159-2af6-4602-af63-7ae5ed388c7e/establishing-a-tcp-handshake-via-netcat)
 30. [Scan ports with Nmap (beginner level)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/f2644b85-713f-4644-9334-89f7fa99e087/scan-ports-with-nmap-beginner-level)
 31. [Capturing a TCP handshake with Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/881ea9a4-5c3f-45c3-9014-6ba3d6daf04c/capturing-a-tcp-handshake-with-wireshark)
+32. [Filter UDP DNS traffic](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/718e701f-b134-4052-8018-1e9d16efa065/filter-udp-dns-traffic)
 
