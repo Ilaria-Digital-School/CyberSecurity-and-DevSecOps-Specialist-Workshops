@@ -47,4 +47,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 33. [Calculate the /24 and /26 address range](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/6aae7bbf-07d8-4978-864f-88d70b1c2afd/calculate-the-24-and-26-address-range)
 34. [Adjust the subnetwork for a need](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/e6fe4127-e2e4-4fa6-8c8f-0932f40573b4/adjust-the-subnetwork-for-a-need)
 35. [Read the Linux VM routing table](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/4fc82097-c5c9-48e9-9dff-ab52e221cb35/read-the-linux-vm-routing-table)
+36. [Track a NATée connection with iptables logs](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/3f005c87-216b-42a6-a681-506ddf2ae31a/track-a-natee-connection-with-iptables-logs)
 

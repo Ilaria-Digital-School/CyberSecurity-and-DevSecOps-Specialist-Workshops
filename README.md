@@ -41,3 +41,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [33. Calculate the /24 and /26 address range](33-calculate-the-24-and-26-address-range/)
 - [34. Adjust the subnetwork for a need](34-adjust-the-subnetwork-for-a-need/)
 - [35. Read the Linux VM routing table](35-read-the-linux-vm-routing-table/)
+- [36. Track a NATée connection with iptables logs](36-track-a-nat-e-connection-with-iptables-logs/)
