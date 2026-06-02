@@ -42,3 +42,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [34. Adjust the subnetwork for a need](34-adjust-the-subnetwork-for-a-need/)
 - [35. Read the Linux VM routing table](35-read-the-linux-vm-routing-table/)
 - [36. Track a NATée connection with iptables logs](36-track-a-nat-e-connection-with-iptables-logs/)
+- [37. Solving and sniffing a DNS lookup](37-solving-and-sniffing-a-dns-lookup/)
+- [38. Manipulating the hosts file to override](38-manipulating-the-hosts-file-to-override/)
