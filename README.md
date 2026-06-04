@@ -44,3 +44,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [36. Track a NATée connection with iptables logs](36-track-a-nat-e-connection-with-iptables-logs/)
 - [37. Solving and sniffing a DNS lookup](37-solving-and-sniffing-a-dns-lookup/)
 - [38. Manipulating the hosts file to override](38-manipulating-the-hosts-file-to-override/)
+- [39. Analyzing an HTTP request in Wireshark](39-analyzing-an-http-request-in-wireshark/)

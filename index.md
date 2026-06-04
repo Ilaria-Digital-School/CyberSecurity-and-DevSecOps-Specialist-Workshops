@@ -50,4 +50,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 36. [Track a NATée connection with iptables logs](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/3f005c87-216b-42a6-a681-506ddf2ae31a/track-a-natee-connection-with-iptables-logs)
 37. [Solving and sniffing a DNS lookup](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/dfb32da4-4766-4a04-a60e-779017810788/solving-and-sniffing-a-dns-lookup)
 38. [Manipulating the hosts file to override](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipulating-the-hosts-file-to-override)
+39. [Analyzing an HTTP request in Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/a889cd4f-6ae8-49ed-83b2-663ec016907b/analyzing-an-http-request-in-wireshark)
 
