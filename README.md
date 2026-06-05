@@ -45,3 +45,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [37. Solving and sniffing a DNS lookup](37-solving-and-sniffing-a-dns-lookup/)
 - [38. Manipulating the hosts file to override](38-manipulating-the-hosts-file-to-override/)
 - [39. Analyzing an HTTP request in Wireshark](39-analyzing-an-http-request-in-wireshark/)
+- [40. Full traffic — from HTTP request to response (annotated diagram)](40-full-traffic-from-http-request-to-response-annotated-diagram/)
