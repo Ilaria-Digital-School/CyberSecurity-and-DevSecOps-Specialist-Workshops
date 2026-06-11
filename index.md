@@ -52,4 +52,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 38. [Manipulating the hosts file to override](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/5002302b-7a54-4ccb-a0f6-36715f79be6b/manipulating-the-hosts-file-to-override)
 39. [Analyzing an HTTP request in Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/a889cd4f-6ae8-49ed-83b2-663ec016907b/analyzing-an-http-request-in-wireshark)
 40. [Full traffic — from HTTP request to response (annotated diagram)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/b33d9384-314e-48ca-8d8d-99981c20748f/full-traffic-from-http-request-to-response-annotated-diagram)
+41. [Workshop: declaring variables and displaying their types](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/56c3d99d-e99c-45e2-8ca8-cf186515fe7c/workshop-declaring-variables-and-displaying-their-types)
 
