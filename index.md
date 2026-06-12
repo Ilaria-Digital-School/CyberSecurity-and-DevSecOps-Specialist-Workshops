@@ -53,4 +53,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 39. [Analyzing an HTTP request in Wireshark](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/a889cd4f-6ae8-49ed-83b2-663ec016907b/analyzing-an-http-request-in-wireshark)
 40. [Full traffic — from HTTP request to response (annotated diagram)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/8a66fef7-fdbd-45dd-b050-98bd354eb963/b33d9384-314e-48ca-8d8d-99981c20748f/full-traffic-from-http-request-to-response-annotated-diagram)
 41. [Workshop: declaring variables and displaying their types](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/56c3d99d-e99c-45e2-8ca8-cf186515fe7c/workshop-declaring-variables-and-displaying-their-types)
+42. [Workshop: Type conversions and simple operations](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/0f8e3afa-6b00-404a-81ae-93aed1a6bad4/workshop-type-conversions-and-simple-operations)
 

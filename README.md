@@ -47,3 +47,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [39. Analyzing an HTTP request in Wireshark](39-analyzing-an-http-request-in-wireshark/)
 - [40. Full traffic — from HTTP request to response (annotated diagram)](40-full-traffic-from-http-request-to-response-annotated-diagram/)
 - [41. Workshop: declaring variables and displaying their types](41-workshop-declaring-variables-and-displaying-their-types/)
+- [42. Workshop: Type conversions and simple operations](42-workshop-type-conversions-and-simple-operations/)
