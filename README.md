@@ -48,3 +48,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [40. Full traffic — from HTTP request to response (annotated diagram)](40-full-traffic-from-http-request-to-response-annotated-diagram/)
 - [41. Workshop: declaring variables and displaying their types](41-workshop-declaring-variables-and-displaying-their-types/)
 - [42. Workshop: Type conversions and simple operations](42-workshop-type-conversions-and-simple-operations/)
+- [43. Workshop: alert if a port is reserved (<1024)](43-workshop-alert-if-a-port-is-reserved-1024/)
