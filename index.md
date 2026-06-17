@@ -55,4 +55,6 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 41. [Workshop: declaring variables and displaying their types](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/56c3d99d-e99c-45e2-8ca8-cf186515fe7c/workshop-declaring-variables-and-displaying-their-types)
 42. [Workshop: Type conversions and simple operations](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/0f8e3afa-6b00-404a-81ae-93aed1a6bad4/workshop-type-conversions-and-simple-operations)
 43. [Workshop: alert if a port is reserved (<1024)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/db0c6ac6-2395-46b0-a085-33165ee09602/workshop-alert-if-a-port-is-reserved-1024)
+44. [Workshop: go through a sequence of ports with for](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/9540f2fc-69ae-4bf5-918f-986d060dc930/workshop-go-through-a-sequence-of-ports-with-for)
+45. [Workshop: While loop up to port 0](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/865f96af-0bc9-4f01-b25a-ce37ee2b66fd/workshop-while-loop-up-to-port-0)
 

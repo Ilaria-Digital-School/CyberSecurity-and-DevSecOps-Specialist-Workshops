@@ -49,3 +49,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [41. Workshop: declaring variables and displaying their types](41-workshop-declaring-variables-and-displaying-their-types/)
 - [42. Workshop: Type conversions and simple operations](42-workshop-type-conversions-and-simple-operations/)
 - [43. Workshop: alert if a port is reserved (<1024)](43-workshop-alert-if-a-port-is-reserved-1024/)
+- [44. Workshop: go through a sequence of ports with for](44-workshop-go-through-a-sequence-of-ports-with-for/)
+- [45. Workshop: While loop up to port 0](45-workshop-while-loop-up-to-port-0/)
