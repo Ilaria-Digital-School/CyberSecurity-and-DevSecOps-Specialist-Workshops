@@ -51,3 +51,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [43. Workshop: alert if a port is reserved (<1024)](43-workshop-alert-if-a-port-is-reserved-1024/)
 - [44. Workshop: go through a sequence of ports with for](44-workshop-go-through-a-sequence-of-ports-with-for/)
 - [45. Workshop: While loop up to port 0](45-workshop-while-loop-up-to-port-0/)
+- [46. Workshop: create configurable hello.py](46-workshop-create-configurable-hello-py/)
