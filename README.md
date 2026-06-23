@@ -53,3 +53,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [45. Workshop: While loop up to port 0](45-workshop-while-loop-up-to-port-0/)
 - [46. Workshop: create configurable hello.py](46-workshop-create-configurable-hello-py/)
 - [47. Workshop: Simulating a simple scheduled task](47-workshop-simulating-a-simple-scheduled-task/)
+- [48. Workshop: est_pair (port) function](48-workshop-est-pair-port-function/)
