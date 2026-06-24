@@ -60,4 +60,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 46. [Workshop: create configurable hello.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/dfc69709-28ef-4350-a334-7f70500ce552/workshop-create-configurable-hello-py)
 47. [Workshop: Simulating a simple scheduled task](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/d839da2f-a9a6-4e17-b385-a6f4701ad44a/workshop-simulating-a-simple-scheduled-task)
 48. [Workshop: est_pair (port) function](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/a511e905-3138-4a70-b6d4-f368a2da209b/workshop-est-pair-port-function)
+49. [Workshop: interactive mini-menu to choose an action](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/1d3b9d4e-11f0-4c8a-a31b-028df1b92f8d/workshop-interactive-mini-menu-to-choose-an-action)
 

@@ -54,3 +54,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [46. Workshop: create configurable hello.py](46-workshop-create-configurable-hello-py/)
 - [47. Workshop: Simulating a simple scheduled task](47-workshop-simulating-a-simple-scheduled-task/)
 - [48. Workshop: est_pair (port) function](48-workshop-est-pair-port-function/)
+- [49. Workshop: interactive mini-menu to choose an action](49-workshop-interactive-mini-menu-to-choose-an-action/)
