@@ -63,4 +63,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 49. [Workshop: interactive mini-menu to choose an action](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/1d3b9d4e-11f0-4c8a-a31b-028df1b92f8d/workshop-interactive-mini-menu-to-choose-an-action)
 50. [Workshop: reading a log and counting ERROR lines](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/377d252b-6c9d-4272-a562-56ef7ef39b1f/workshop-reading-a-log-and-counting-error-lines)
 51. [Workshop: managing FileNotFoundError on the log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/94044db3-5f54-4bdb-a07f-0334a8a10780/workshop-managing-filenotfounderror-on-the-log)
+52. [Workshop: creating and importing utils.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/workshop-creating-and-importing-utils-py)
 

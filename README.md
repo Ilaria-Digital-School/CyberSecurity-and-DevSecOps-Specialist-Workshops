@@ -57,3 +57,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [49. Workshop: interactive mini-menu to choose an action](49-workshop-interactive-mini-menu-to-choose-an-action/)
 - [50. Workshop: reading a log and counting ERROR lines](50-workshop-reading-a-log-and-counting-error-lines/)
 - [51. Workshop: managing FileNotFoundError on the log](51-workshop-managing-filenotfounderror-on-the-log/)
+- [52. Workshop: creating and importing utils.py](52-workshop-creating-and-importing-utils-py/)
