@@ -58,3 +58,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [50. Workshop: reading a log and counting ERROR lines](50-workshop-reading-a-log-and-counting-error-lines/)
 - [51. Workshop: managing FileNotFoundError on the log](51-workshop-managing-filenotfounderror-on-the-log/)
 - [52. Workshop: creating and importing utils.py](52-workshop-creating-and-importing-utils-py/)
+- [53. Workshop: script that executes 'ping' and saves output](53-workshop-script-that-executes-ping-and-saves-output/)
+- [54. Workshop: Setting the number of ping packets](54-workshop-setting-the-number-of-ping-packets/)

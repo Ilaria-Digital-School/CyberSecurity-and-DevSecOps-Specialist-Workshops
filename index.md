@@ -64,4 +64,6 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 50. [Workshop: reading a log and counting ERROR lines](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/377d252b-6c9d-4272-a562-56ef7ef39b1f/workshop-reading-a-log-and-counting-error-lines)
 51. [Workshop: managing FileNotFoundError on the log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/94044db3-5f54-4bdb-a07f-0334a8a10780/workshop-managing-filenotfounderror-on-the-log)
 52. [Workshop: creating and importing utils.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/workshop-creating-and-importing-utils-py)
+53. [Workshop: script that executes 'ping' and saves output](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/124ee508-6ecf-4d77-9aab-d5f82719ded2/workshop-script-that-executes-ping-and-saves-output)
+54. [Workshop: Setting the number of ping packets](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/workshop-setting-the-number-of-ping-packets)
 
