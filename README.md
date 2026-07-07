@@ -60,3 +60,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [52. Workshop: creating and importing utils.py](52-workshop-creating-and-importing-utils-py/)
 - [53. Workshop: script that executes 'ping' and saves output](53-workshop-script-that-executes-ping-and-saves-output/)
 - [54. Workshop: Setting the number of ping packets](54-workshop-setting-the-number-of-ping-packets/)
+- [55. Workshop: create a list of ports and go through it](55-workshop-create-a-list-of-ports-and-go-through-it/)
+- [56. Workshop: Port → service dictionary](56-workshop-port-service-dictionary/)

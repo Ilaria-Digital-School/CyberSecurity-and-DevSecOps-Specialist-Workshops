@@ -66,4 +66,6 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 52. [Workshop: creating and importing utils.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/300c5ad8-0b0a-4cf6-9953-9141400ece3a/workshop-creating-and-importing-utils-py)
 53. [Workshop: script that executes 'ping' and saves output](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/124ee508-6ecf-4d77-9aab-d5f82719ded2/workshop-script-that-executes-ping-and-saves-output)
 54. [Workshop: Setting the number of ping packets](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/workshop-setting-the-number-of-ping-packets)
+55. [Workshop: create a list of ports and go through it](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/a6a9ac58-24ba-44d2-9758-884aa34fe0e2/workshop-create-a-list-of-ports-and-go-through-it)
+56. [Workshop: Port → service dictionary](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/workshop-port-service-dictionary)
 
