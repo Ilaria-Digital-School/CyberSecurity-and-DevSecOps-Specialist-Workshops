@@ -68,4 +68,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 54. [Workshop: Setting the number of ping packets](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/eb846eec-a402-43bb-b96b-1ed73ee44ea6/workshop-setting-the-number-of-ping-packets)
 55. [Workshop: create a list of ports and go through it](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/a6a9ac58-24ba-44d2-9758-884aa34fe0e2/workshop-create-a-list-of-ports-and-go-through-it)
 56. [Workshop: Port → service dictionary](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/workshop-port-service-dictionary)
+57. [Workshop: extracting all IP addresses from a log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/2a1da0b5-e3ca-4dec-bee7-2634d1c125a3/workshop-extracting-all-ip-addresses-from-a-log)
 
