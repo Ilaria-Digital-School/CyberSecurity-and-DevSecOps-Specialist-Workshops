@@ -70,4 +70,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 56. [Workshop: Port → service dictionary](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/e89c3011-64d5-4bd3-b601-abcdf8a7b250/workshop-port-service-dictionary)
 57. [Workshop: extracting all IP addresses from a log](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/2a1da0b5-e3ca-4dec-bee7-2634d1c125a3/workshop-extracting-all-ip-addresses-from-a-log)
 58. [Workshop: scan ports 20 to 25 of a local target](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/79fedb1a-c6a8-4322-a79b-8668a687c03f/workshop-scan-ports-20-to-25-of-a-local-target)
+59. [Mini-project step 1: Nmap wrapper (runtime + XML capture)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/3a866ece-7d9c-45bb-b210-4f08d94d42a4/mini-project-step-1-nmap-wrapper-runtime-xml-capture)
 
