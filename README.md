@@ -68,3 +68,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [60. Workshop: check for the presence of X-Frame-Options](60-workshop-check-for-the-presence-of-x-frame-options/)
 - [61. Reinforced workshop: applying best practices to hello.py](61-reinforced-workshop-applying-best-practices-to-hello-py/)
 - [62. Final mini-project: basic audit script (ping, nmap, headers) with report](62-final-mini-project-basic-audit-script-ping-nmap-headers-with-report/)
+- [63. First steps: pwd, ls, clear](63-first-steps-pwd-ls-clear/)
+- [64. navigation (cd, paths)](64-navigation-cd-paths/)

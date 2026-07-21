@@ -74,4 +74,6 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 60. [Workshop: check for the presence of X-Frame-Options](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/e029f823-e7d4-48ff-9d26-5201870d02d1/workshop-check-for-the-presence-of-x-frame-options)
 61. [Reinforced workshop: applying best practices to hello.py](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/f7d5918f-a290-4632-8683-9d5909d4e534/reinforced-workshop-applying-best-practices-to-hello-py)
 62. [Final mini-project: basic audit script (ping, nmap, headers) with report](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/763d7742-4f86-49e5-9ed8-af9413683972/010b081b-f5f1-47fc-8f1f-e36370412021/final-mini-project-basic-audit-script-ping-nmap-headers-with-report)
+63. [First steps: pwd, ls, clear](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/4463ba7b-6aee-48e9-ab5a-55d906e7c121/first-steps-pwd-ls-clear)
+64. [navigation (cd, paths)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/1c88c030-28b8-4571-969f-f31792c8209d/navigation-cd-paths)
 
