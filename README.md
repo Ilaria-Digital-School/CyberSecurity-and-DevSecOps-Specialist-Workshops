@@ -70,3 +70,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [62. Final mini-project: basic audit script (ping, nmap, headers) with report](62-final-mini-project-basic-audit-script-ping-nmap-headers-with-report/)
 - [63. First steps: pwd, ls, clear](63-first-steps-pwd-ls-clear/)
 - [64. navigation (cd, paths)](64-navigation-cd-paths/)
+- [65. Explore with tree](65-explore-with-tree/)
