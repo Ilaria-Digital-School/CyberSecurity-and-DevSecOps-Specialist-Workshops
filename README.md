@@ -73,3 +73,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [65. Explore with tree](65-explore-with-tree/)
 - [66. Securely copy, move, and delete](66-securely-copy-move-and-delete/)
 - [67. Symbolic chmod step by step](67-symbolic-chmod-step-by-step/)
+- [68. Digital chmod 755/644](68-digital-chmod-755-644/)
