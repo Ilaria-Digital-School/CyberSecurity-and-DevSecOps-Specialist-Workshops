@@ -80,4 +80,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 66. [Securely copy, move, and delete](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/5fee5277-8568-4c14-b819-20cf76261947/securely-copy-move-and-delete)
 67. [Symbolic chmod step by step](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/c57495ed-c8d3-4b11-911d-b3efa5d30ac5/symbolic-chmod-step-by-step)
 68. [Digital chmod 755/644](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/cbeec9d1-8179-4187-a9d5-76307e520b30/digital-chmod-755-644)
+69. [Chown and chgrp](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/5df984b3-54e3-4865-a492-5e0a0347f711/chown-and-chgrp)
 
