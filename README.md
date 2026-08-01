@@ -75,3 +75,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [67. Symbolic chmod step by step](67-symbolic-chmod-step-by-step/)
 - [68. Digital chmod 755/644](68-digital-chmod-755-644/)
 - [69. Chown and chgrp](69-chown-and-chgrp/)
+- [70. Securing a shared folder](70-securing-a-shared-folder/)
