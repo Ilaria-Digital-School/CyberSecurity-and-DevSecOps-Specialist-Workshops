@@ -76,3 +76,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [68. Digital chmod 755/644](68-digital-chmod-755-644/)
 - [69. Chown and chgrp](69-chown-and-chgrp/)
 - [70. Securing a shared folder](70-securing-a-shared-folder/)
+- [71. List and filter processes](71-list-and-filter-processes/)
