@@ -86,4 +86,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 72. [Signals and kill in practice](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/428f5257-9d78-40bc-9b8a-6c0ebab9dd6d/signals-and-kill-in-practice)
 73. [Start, stop, activate a service](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/088a917a-ebb7-4602-9f1e-383797d4ab26/start-stop-activate-a-service)
 74. [Identify open interfaces and ports](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/da09a465-4b54-442c-9b92-0f9c28774411/identify-open-interfaces-and-ports)
+75. [Document network status](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/ac4c47d6-ebc6-44a9-96ad-87b41906d849/document-network-status)
 

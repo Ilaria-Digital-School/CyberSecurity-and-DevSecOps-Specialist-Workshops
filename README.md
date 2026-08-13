@@ -80,3 +80,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [72. Signals and kill in practice](72-signals-and-kill-in-practice/)
 - [73. Start, stop, activate a service](73-start-stop-activate-a-service/)
 - [74. Identify open interfaces and ports](74-identify-open-interfaces-and-ports/)
+- [75. Document network status](75-document-network-status/)
