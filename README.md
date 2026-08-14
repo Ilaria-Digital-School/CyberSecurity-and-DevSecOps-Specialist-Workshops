@@ -81,3 +81,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [73. Start, stop, activate a service](73-start-stop-activate-a-service/)
 - [74. Identify open interfaces and ports](74-identify-open-interfaces-and-ports/)
 - [75. Document network status](75-document-network-status/)
+- [76. Install nmap and wireshark](76-install-nmap-and-wireshark/)
