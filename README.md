@@ -83,3 +83,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [75. Document network status](75-document-network-status/)
 - [76. Install nmap and wireshark](76-install-nmap-and-wireshark/)
 - [77. Write a /etc backup script](77-write-a-etc-backup-script/)
+- [78. Make it executable and schedule via cron](78-make-it-executable-and-schedule-via-cron/)
