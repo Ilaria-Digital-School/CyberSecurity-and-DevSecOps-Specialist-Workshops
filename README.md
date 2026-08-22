@@ -85,3 +85,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [77. Write a /etc backup script](77-write-a-etc-backup-script/)
 - [78. Make it executable and schedule via cron](78-make-it-executable-and-schedule-via-cron/)
 - [79. Create a restricted pentest user](79-create-a-restricted-pentest-user/)
+- [80. Scan /var/log/auth.log for detections](80-scan-var-log-auth-log-for-detections/)

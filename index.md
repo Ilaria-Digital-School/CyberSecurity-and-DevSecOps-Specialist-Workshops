@@ -91,4 +91,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 77. [Write a /etc backup script](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/ecabbc30-e1d8-4a82-8f3f-cb888606f6b4/write-a-etc-backup-script)
 78. [Make it executable and schedule via cron](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/34dc3689-0cd2-469a-a541-55a01be15081/make-it-executable-and-schedule-via-cron)
 79. [Create a restricted pentest user](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/5735047c-0fa5-4857-8a9c-8f95f2cbb59f/create-a-restricted-pentest-user)
+80. [Scan /var/log/auth.log for detections](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/110dbe8e-cdec-49b7-8919-c9220f10ccf9/scan-var-log-auth-log-for-detections)
 
