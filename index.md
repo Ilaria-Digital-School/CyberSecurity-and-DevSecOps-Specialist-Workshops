@@ -92,4 +92,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 78. [Make it executable and schedule via cron](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/34dc3689-0cd2-469a-a541-55a01be15081/make-it-executable-and-schedule-via-cron)
 79. [Create a restricted pentest user](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/5735047c-0fa5-4857-8a9c-8f95f2cbb59f/create-a-restricted-pentest-user)
 80. [Scan /var/log/auth.log for detections](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/110dbe8e-cdec-49b7-8919-c9220f10ccf9/scan-var-log-auth-log-for-detections)
+81. [Apply a hardening checklist on VM labo](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/ecc48bb2-5471-4708-892b-39238ea24fdb/aae73605-d685-44d2-a9da-5309494ab1c3/apply-a-hardening-checklist-on-vm-labo)
 
