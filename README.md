@@ -87,3 +87,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [79. Create a restricted pentest user](79-create-a-restricted-pentest-user/)
 - [80. Scan /var/log/auth.log for detections](80-scan-var-log-auth-log-for-detections/)
 - [81. Apply a hardening checklist on VM labo](81-apply-a-hardening-checklist-on-vm-labo/)
+- [82. Locate assets in a “Todo List” application](82-locate-assets-in-a-todo-list-application/)
