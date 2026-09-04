@@ -96,4 +96,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 82. [Locate assets in a “Todo List” application](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/c882bb54-e298-47f6-a7d2-cf7b2bd66458/locate-assets-in-a-todo-list-application)
 83. [Classify CIA impacts on Todo List assets](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/e517e89f-cc6a-45a6-b524-ad92f8d24498/classify-cia-impacts-on-todo-list-assets)
 84. [Associate risk scenarios with OWASP Top 10 (maps)](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/23dbdbba-d83f-4a28-8826-037980585af1/associate-risk-scenarios-with-owasp-top-10-maps)
+85. [Break down the simplified Blog application into components](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/8e751632-c45a-4637-9474-57b643971ed4/break-down-the-simplified-blog-application-into-components)
 

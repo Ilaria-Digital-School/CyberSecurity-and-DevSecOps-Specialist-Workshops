@@ -90,3 +90,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [82. Locate assets in a “Todo List” application](82-locate-assets-in-a-todo-list-application/)
 - [83. Classify CIA impacts on Todo List assets](83-classify-cia-impacts-on-todo-list-assets/)
 - [84. Associate risk scenarios with OWASP Top 10 (maps)](84-associate-risk-scenarios-with-owasp-top-10-maps/)
+- [85. Break down the simplified Blog application into components](85-break-down-the-simplified-blog-application-into-components/)
