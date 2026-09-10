@@ -99,4 +99,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 85. [Break down the simplified Blog application into components](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/8e751632-c45a-4637-9474-57b643971ed4/break-down-the-simplified-blog-application-into-components)
 86. [Apply STRIDE on the authentication flow](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/d15bb898-d4aa-4a55-b636-4f114a27abdf/apply-stride-on-the-authentication-flow)
 87. [STRIDE on a “create post” API endpoint](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/2dbc9d4f-4c4f-4d6c-a5eb-c0374b7d09b1/stride-on-a-create-post-api-endpoint)
+88. [Draw the DFD for the Blog application](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/58fe673f-9581-459c-b386-2fbec3c8368d/draw-the-dfd-for-the-blog-application)
 

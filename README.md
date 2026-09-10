@@ -93,3 +93,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [85. Break down the simplified Blog application into components](85-break-down-the-simplified-blog-application-into-components/)
 - [86. Apply STRIDE on the authentication flow](86-apply-stride-on-the-authentication-flow/)
 - [87. STRIDE on a “create post” API endpoint](87-stride-on-a-create-post-api-endpoint/)
+- [88. Draw the DFD for the Blog application](88-draw-the-dfd-for-the-blog-application/)
