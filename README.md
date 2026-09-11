@@ -94,3 +94,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [86. Apply STRIDE on the authentication flow](86-apply-stride-on-the-authentication-flow/)
 - [87. STRIDE on a “create post” API endpoint](87-stride-on-a-create-post-api-endpoint/)
 - [88. Draw the DFD for the Blog application](88-draw-the-dfd-for-the-blog-application/)
+- [89. Identify STRIDE threats in the DFD](89-identify-stride-threats-in-the-dfd/)
+- [90. Red thread — Building a complete threat matrix for the Blog](90-red-thread-building-a-complete-threat-matrix-for-the-blog/)
