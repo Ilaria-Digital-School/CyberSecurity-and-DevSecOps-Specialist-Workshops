@@ -102,4 +102,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 88. [Draw the DFD for the Blog application](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/58fe673f-9581-459c-b386-2fbec3c8368d/draw-the-dfd-for-the-blog-application)
 89. [Identify STRIDE threats in the DFD](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/ce7ac977-12c8-4c69-9ef7-b13797575696/identify-stride-threats-in-the-dfd)
 90. [Red thread — Building a complete threat matrix for the Blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/07ab2f89-adbc-4853-95fe-1fff9e5a9abb/red-thread-building-a-complete-threat-matrix-for-the-blog)
+91. [Evaluate the Blog against the principles of secure design](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/47ea3cb3-f52a-48cc-be46-da6edf951392/evaluate-the-blog-against-the-principles-of-secure-design)
 

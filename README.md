@@ -96,3 +96,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [88. Draw the DFD for the Blog application](88-draw-the-dfd-for-the-blog-application/)
 - [89. Identify STRIDE threats in the DFD](89-identify-stride-threats-in-the-dfd/)
 - [90. Red thread — Building a complete threat matrix for the Blog](90-red-thread-building-a-complete-threat-matrix-for-the-blog/)
+- [91. Evaluate the Blog against the principles of secure design](91-evaluate-the-blog-against-the-principles-of-secure-design/)
