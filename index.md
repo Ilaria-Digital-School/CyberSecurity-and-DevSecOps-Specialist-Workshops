@@ -104,4 +104,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 90. [Red thread — Building a complete threat matrix for the Blog](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/07ab2f89-adbc-4853-95fe-1fff9e5a9abb/red-thread-building-a-complete-threat-matrix-for-the-blog)
 91. [Evaluate the Blog against the principles of secure design](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/47ea3cb3-f52a-48cc-be46-da6edf951392/evaluate-the-blog-against-the-principles-of-secure-design)
 92. [Adapting the principles to a file upload microservice](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/7ac84e06-2e3a-4cb3-935c-a221f327b8d2/adapting-the-principles-to-a-file-upload-microservice)
+93. [Map the Blog's attack surface](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/1f1aab6b-ddd1-4a92-9074-19f3978de9fb/map-the-blog-s-attack-surface)
 
