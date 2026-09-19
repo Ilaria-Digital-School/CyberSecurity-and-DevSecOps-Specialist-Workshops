@@ -99,3 +99,4 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [91. Evaluate the Blog against the principles of secure design](91-evaluate-the-blog-against-the-principles-of-secure-design/)
 - [92. Adapting the principles to a file upload microservice](92-adapting-the-principles-to-a-file-upload-microservice/)
 - [93. Map the Blog's attack surface](93-map-the-blog-s-attack-surface/)
+- [94. Score previous threats with OWASP Risk Rating](94-score-previous-threats-with-owasp-risk-rating/)
