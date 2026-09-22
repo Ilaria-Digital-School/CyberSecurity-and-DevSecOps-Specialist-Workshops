@@ -106,4 +106,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 92. [Adapting the principles to a file upload microservice](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/7ac84e06-2e3a-4cb3-935c-a221f327b8d2/adapting-the-principles-to-a-file-upload-microservice)
 93. [Map the Blog's attack surface](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/1f1aab6b-ddd1-4a92-9074-19f3978de9fb/map-the-blog-s-attack-surface)
 94. [Score previous threats with OWASP Risk Rating](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/30bf3883-0829-4248-809c-e8f6f98c10d0/score-previous-threats-with-owasp-risk-rating)
+95. [Varying the scoring on an e-commerce API](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/01fef874-d160-4a7d-a991-9e60a62e6185/varying-the-scoring-on-an-e-commerce-api)
 
