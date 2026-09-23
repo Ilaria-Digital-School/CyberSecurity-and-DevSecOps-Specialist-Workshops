@@ -101,3 +101,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [93. Map the Blog's attack surface](93-map-the-blog-s-attack-surface/)
 - [94. Score previous threats with OWASP Risk Rating](94-score-previous-threats-with-owasp-risk-rating/)
 - [95. Varying the scoring on an e-commerce API](95-varying-the-scoring-on-an-e-commerce-api/)
+- [96. Develop a test checklist based on the threat model](96-develop-a-test-checklist-based-on-the-threat-model/)
+- [97. Adapting the checklist to a third party public API](97-adapting-the-checklist-to-a-third-party-public-api/)
