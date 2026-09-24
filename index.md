@@ -109,4 +109,6 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 95. [Varying the scoring on an e-commerce API](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/01fef874-d160-4a7d-a991-9e60a62e6185/varying-the-scoring-on-an-e-commerce-api)
 96. [Develop a test checklist based on the threat model](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/384aa73d-0426-4b05-9fbd-97c524880c82/develop-a-test-checklist-based-on-the-threat-model)
 97. [Adapting the checklist to a third party public API](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/55b504ec-edd3-4010-9e2f-e8c5315b7f83/adapting-the-checklist-to-a-third-party-public-api)
+98. [Getting started with OWASP Threat Dragon on the Blog project](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/76c74173-3a44-4bd3-981e-465badd272f0/getting-started-with-owasp-threat-dragon-on-the-blog-project)
+99. [Red thread 2 — Model and document the threats of a Weather API](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/6bcc5ea8-f615-4d84-b0ca-ba7e64a32642/84b20284-7057-42d1-a6f2-e840c02ee1e3/red-thread-2-model-and-document-the-threats-of-a-weather-api)
 

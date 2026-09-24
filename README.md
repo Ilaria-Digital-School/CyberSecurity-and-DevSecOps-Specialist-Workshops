@@ -103,3 +103,5 @@ Become a CyberSecurity & DevSecOps Specialist: Understand the risks of an applic
 - [95. Varying the scoring on an e-commerce API](95-varying-the-scoring-on-an-e-commerce-api/)
 - [96. Develop a test checklist based on the threat model](96-develop-a-test-checklist-based-on-the-threat-model/)
 - [97. Adapting the checklist to a third party public API](97-adapting-the-checklist-to-a-third-party-public-api/)
+- [98. Getting started with OWASP Threat Dragon on the Blog project](98-getting-started-with-owasp-threat-dragon-on-the-blog-project/)
+- [99. Red thread 2 — Model and document the threats of a Weather API](99-red-thread-2-model-and-document-the-threats-of-a-weather-api/)
