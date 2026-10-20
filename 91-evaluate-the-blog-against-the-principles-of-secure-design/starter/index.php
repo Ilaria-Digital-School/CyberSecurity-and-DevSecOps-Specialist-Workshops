@@ -1,2 +1,0 @@
-<?php
-// Evaluate the Blog against the principles of secure design

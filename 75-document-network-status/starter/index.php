@@ -1,2 +1,0 @@
-<?php
-// Document network status

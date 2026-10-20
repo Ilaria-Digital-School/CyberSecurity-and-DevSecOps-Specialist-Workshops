@@ -1,2 +1,0 @@
-<?php
-// Workshop: declaring variables and displaying their types

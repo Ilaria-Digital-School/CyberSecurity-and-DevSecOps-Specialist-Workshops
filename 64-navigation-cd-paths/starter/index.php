@@ -1,2 +1,0 @@
-<?php
-// navigation (cd, paths)

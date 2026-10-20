@@ -1,2 +1,0 @@
-<?php
-// Workshop: simulating a committed secret and correcting it

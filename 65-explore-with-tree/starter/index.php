@@ -1,2 +1,0 @@
-<?php
-// Explore with tree

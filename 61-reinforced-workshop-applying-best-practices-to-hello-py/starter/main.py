@@ -1,1 +1,0 @@
-# Reinforced workshop: applying best practices to hello.py

@@ -1,2 +1,0 @@
-<?php
-// Workshop: extracting key information from the report

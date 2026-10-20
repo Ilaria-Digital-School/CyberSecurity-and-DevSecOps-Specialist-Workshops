@@ -1,2 +1,0 @@
-<?php
-// Mini-project step 1: Nmap wrapper (runtime + XML capture)

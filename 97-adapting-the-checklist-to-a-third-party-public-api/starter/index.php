@@ -1,2 +1,0 @@
-<?php
-// Adapting the checklist to a third party public API
