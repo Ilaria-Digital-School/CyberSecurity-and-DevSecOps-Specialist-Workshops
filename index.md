@@ -10,3 +10,7 @@ Become a cybersecurity specialist, from scratch to professional penetration test
 
 [View the full workshop](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/)
 
+## Workshops
+
+01. [Analyse three well-known cyberattacks using this vocabulary](https://www.ilaria-academy.com/nextjob/appsec-cybersecurity-hacker/en/226e4442-9362-4056-9360-773bd1994455/ef67d0d3-939d-48de-9acd-d50b71bb772a/analyse-three-well-known-cyberattacks-using-this-vocabulary)
+
