@@ -1,0 +1,2 @@
+<?php
+// Solving and sniffing a DNS lookup

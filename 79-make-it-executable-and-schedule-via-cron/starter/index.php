@@ -1,0 +1,2 @@
+<?php
+// Make it executable and schedule via cron

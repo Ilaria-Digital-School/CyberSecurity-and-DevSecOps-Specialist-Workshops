@@ -1,0 +1,2 @@
+<?php
+// Apply a hardening checklist on VM labo

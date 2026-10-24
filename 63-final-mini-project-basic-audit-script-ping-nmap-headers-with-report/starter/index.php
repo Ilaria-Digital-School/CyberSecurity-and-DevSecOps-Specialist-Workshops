@@ -1,0 +1,2 @@
+<?php
+// Final mini-project: basic audit script (ping, nmap, headers) with report

@@ -1,0 +1,2 @@
+<?php
+// Workshop: installing and verifying the lab virtual machine

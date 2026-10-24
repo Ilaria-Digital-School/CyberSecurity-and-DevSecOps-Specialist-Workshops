@@ -1,0 +1,2 @@
+<?php
+// Ramp-up mini-project: documenting the path of a package to a website

@@ -1,0 +1,2 @@
+<?php
+// Variation workshop: creating your own threat examples

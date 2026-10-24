@@ -1,0 +1,2 @@
+<?php
+// Workshop: reading a log and counting ERROR lines
