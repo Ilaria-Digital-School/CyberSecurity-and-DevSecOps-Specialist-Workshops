@@ -1,0 +1,2 @@
+<?php
+// Classify incidents by what they compromised
