@@ -1,0 +1,1 @@
+// Tell authorised situations apart from unauthorised ones
