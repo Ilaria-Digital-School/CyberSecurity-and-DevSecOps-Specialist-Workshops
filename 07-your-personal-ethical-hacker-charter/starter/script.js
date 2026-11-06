@@ -1,0 +1,1 @@
+// Your personal ethical hacker charter
