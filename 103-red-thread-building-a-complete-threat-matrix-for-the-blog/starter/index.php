@@ -1,0 +1,2 @@
+<?php
+// Red thread — Building a complete threat matrix for the Blog
